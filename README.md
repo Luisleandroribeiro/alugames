@@ -1,4 +1,4 @@
-O Desafaio AluraGames tem como objetivo principal fazer a funcionalidade dos botões de Alugar/Devolver os games
+O Projeto AluraGames tem como objetivo principal fazer a funcionalidade dos botões de Alugar/Devolver os games
 Além disso, criar Alertas de confirmações e também notificar no Console quantos games já estão alugados.
 
 
